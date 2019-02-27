@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github Reader</string>
+    <string name="open_app">Continue with GitHub test app</string>
+    <string name="close_app">Tap back button in order to exit\nHome button to hide application</string>
+    <string name="github_name_input_hint">Github name</string>
+    <string name="github_name_input_desc">Input username to know more:</string>
+    <string name="button_search">Tell me more!</string>
+    <string name="avatar_desc">Avatar</string>
+    <string name="following">following</string>
+    <string name="name_company">%1$s, %2$s</string>
+    <string name="repos">Repositories</string>
+    <string name="repo_lang">Language: %1$s</string>
+</resources>

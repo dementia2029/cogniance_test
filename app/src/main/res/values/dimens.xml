@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="side_margin">16dp</dimen>
+    <dimen name="input_user_name_padding">16dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="avatar_size">96dp</dimen>
+</resources>
